@@ -1,0 +1,228 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sidhu",
+      "email": "anil@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sam Sidhu",
+      "email": "amseller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@123",
+      "id": 4
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "alina",
+      "password": "abc@123",
+      "email": "alina@test.com",
+      "id": 6
+    },
+    {
+      "name": "anil",
+      "password": "abc@123",
+      "email": "anil@123",
+      "id": 7
+    },
+    {
+      "name": "bheem",
+      "password": "abc123",
+      "email": "bheem@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "reddy",
+      "password": "abc123",
+      "email": "reddy@123",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "HP Laptop",
+      "price": "40000",
+      "color": "black",
+      "category": "laptop",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 2
+    },
+    {
+      "name": "Samsung m40",
+      "price": "2000",
+      "color": "white",
+      "category": "mobile",
+      "description": "updated mobile",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/SamsungGalaxyM40.JPG",
+      "id": 3
+    },
+    {
+      "name": "Levies Jeans ",
+      "price": "950",
+      "color": "blue",
+      "category": "jeans",
+      "description": "one of the best jeans",
+      "image": "https://kdvr.com/wp-content/uploads/sites/11/2022/11/1040x585-2021-1027-best-levis-jeans-458f60.jpg",
+      "id": 4
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "650",
+      "color": "black",
+      "category": "shoes",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 5
+    },
+    {
+      "name": "Truck",
+      "price": "20000",
+      "color": "green",
+      "category": "toys",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": 6
+    },
+    {
+      "name": "shirt",
+      "price": "500",
+      "color": "red",
+      "category": "shirt",
+      "description": "very good product",
+      "image": "https://media.istockphoto.com/id/498852901/photo/red-plaid-shirt.jpg?s=612x612&w=0&k=20&c=FN0dBgzq0_GDJo5fKwRyM-QDz37TUVxAGKK4o3TSLnI=",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "bruce",
+      "email": "bruce@user.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "vinay",
+      "email": "vinay@user.com",
+      "password": "acb@123",
+      "id": 4
+    },
+    {
+      "name": "kumar",
+      "email": "kumar@user.com",
+      "password": "abc@123",
+      "id": 5
+    },
+    {
+      "name": "nikil",
+      "email": "nikil@user.com",
+      "password": "abc@123",
+      "id": 6
+    },
+    {
+      "name": "abdu",
+      "email": "abdul@user.com",
+      "password": "abc@123",
+      "id": 7
+    },
+    {
+      "name": "sharan",
+      "email": "sharan@user.com",
+      "password": "abc@123",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "Truck",
+      "price": "20000",
+      "color": "red",
+      "category": "toys",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 8,
+      "id": 10
+    },
+    {
+      "name": "HP Laptop",
+      "price": "40000",
+      "color": "black",
+      "category": "laptop",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "name": "HP Laptop",
+      "price": "40000",
+      "color": "black",
+      "category": "laptop",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 3,
+      "id": 13
+    }
+  ],
+  "orders": [
+    {
+      "email": "bruce@user.com",
+      "address": "chimmanchod",
+      "contact": "9999",
+      "totalPrice": 35550,
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "email": "bruce@user.com",
+      "address": "chimmanchod",
+      "contact": "9999",
+      "totalPrice": 35550,
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "email": "bruce@user.com",
+      "address": "chimmanchod",
+      "contact": "9999",
+      "totalPrice": 1400,
+      "userId": 3,
+      "id": 4
+    }
+  ]
+}
